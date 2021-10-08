@@ -1,6 +1,6 @@
 <h1 align="center">Hello, 🌎</h1>
   
-### I'm currently learning:
+### 🌱 I'm currently learning:
 
 - 👨‍🎨 UX/UI Design
 - 𝒥𝒮 JavaScript
