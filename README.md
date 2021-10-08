@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hello, 🌎<h1>
 
-<!--
-**marcusluis/marcusluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm currently learning in Frontend:
 
-Here are some ideas to get you started:
+- 𝒥𝒮 JavaScript
+- ⚛ React
+- 🃏 Jest
+- The beginning of everything: HTML5 and CSS3
+  
+### I'm currently learning in Backend:
+  
+- ⬢ Node
+- 𝒯𝒮 TypeScript
+- 🐬 MySQL
+- ☁️ AWS
+- 🔥 Firebase
+  
+### I'm interested in learning about:
+  
+- 👨‍🎨 UI Design
+- ⛓ Blockchain
+- 🤝 Smart contracts
+- {} Solidity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+
+- [Linkedin](https://www.linkedin.com/in/marcusluiss/)
