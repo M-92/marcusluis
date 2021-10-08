@@ -5,7 +5,7 @@
 - 𝒥𝒮 JavaScript
 - ⚛ React
 - 🃏 Jest
-- The beginning of everything: HTML5 and CSS3
+- 🌌 The beginning of everything: HTML5 and CSS3
   
 ### I'm currently learning in Backend:
   
