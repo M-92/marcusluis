@@ -12,3 +12,7 @@
 ### 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/marcusluiss/)
+
+<p>&nbsp;</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusluis&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="programming langs" /></p>
