@@ -2,7 +2,7 @@
   
 ### 🌱 I'm currently learning:
 
-- 👨‍🎨 UX/UI Design
+- 👨‍🎨 UI/UX Design
 - 𝒥𝒮 JavaScript
 - ⚛ React
 - ⛓ Blockchain
