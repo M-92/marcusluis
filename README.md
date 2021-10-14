@@ -1,6 +1,6 @@
-<h1 align="center">⚡︎</h1>
+<h1 align="center">🌱</h1>
   
-### 🌱 I'm currently learning:
+### 📖 I'm currently learning:
 
 - 👨‍🎨 UI/UX Design
 - 𝒥𝒮 JavaScript
