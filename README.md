@@ -1,11 +1,8 @@
-### 📖 I'm currently learning:
+### 📖 I have an interest in:
 
 - 👨‍🎨 UI/UX Design
-- 𝒥𝒮 JavaScript
-- ⚛ React
+- 👨‍💻 Software Development
 - ⛓ Blockchain
-- 🤝 Smart contracts
-- {} Solidity
 
 ### 📫 How to reach me:
 
