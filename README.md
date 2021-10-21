@@ -1,5 +1,3 @@
-<h1 align="center">🌱</h1>
-  
 ### 📖 I'm currently learning:
 
 - 👨‍🎨 UI/UX Design
