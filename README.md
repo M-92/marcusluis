@@ -6,4 +6,4 @@
 
 ### 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/marcusluiss/)
+- [LinkedIn](https://www.linkedin.com/in/marcusluissilva/)
