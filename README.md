@@ -2,7 +2,6 @@
 
 - 👨‍🎨 UI/UX Design
 - 👨‍💻 Software Development
-- ⛓ Blockchain
 
 ### 📫 How to reach me:
 
