@@ -1,7 +1,7 @@
 ### 📖 I have an interest in:
 
-- 👨‍🎨 UI/UX Design
 - 👨‍💻 Software Development
+- 👨‍🎨 UI/UX Design
 
 ### 📫 How to reach me:
 
