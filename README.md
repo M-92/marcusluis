@@ -1,10 +1,10 @@
-<p align="center">
-  <a src="https://c.tenor.com/kG2z0YW11BUAAAAC/itachi.gif">
-    <img src="https://user-images.githubusercontent.com/35894743/153888463-3aeca3cc-e827-49b5-b5b3-11dbc81407db.gif" width="340" />
+<!-- <p align="center">
+  <a src="">
+    <img src="" width="" />
   </a>
 </p>
  
-<br><br>
+<br><br> -->
 
 <p align="center" size="6">📖 I have an interest in:</p>
 
