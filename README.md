@@ -6,7 +6,7 @@
  
 <br><br> -->
 
-<p align="center" size="6">📖 I have an interest in:</p>
+<h3 align="center" size="6">📖 I have an interest in:</h3>
 
 <p align="center">👨‍💻 Software Development</p>
 
