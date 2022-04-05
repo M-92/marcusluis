@@ -8,7 +8,7 @@
 
 <h3 align="center" size="6">I have an interest in:</h3>
 
-<p align="center">👨‍💻 Software Development</p>
+<p align="center">👨‍💻 Front-end Web Developer</p>
 
 <p align="center">👨‍🎨 UI/UX Design</p>
 
