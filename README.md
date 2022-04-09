@@ -10,8 +10,6 @@
 
 <p align="center">👨‍💻 Front-end Web Developer</p>
 
-<p align="center">👨‍🎨 UI Design</p>
-
 <p align="center">⛓ Blockchain</p>
 
 <br><br>
