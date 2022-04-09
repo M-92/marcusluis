@@ -6,11 +6,7 @@
  
 <br><br> -->
 
-<h3 align="center" size="6">I have an interest in:</h3>
-
-<p align="center">👨‍💻 Front-end Web Developer</p>
-
-<p align="center">⛓ Blockchain</p>
+<!-- <p align="center">👨‍💻 Front-end Web Developer</p>
 
 <br><br>
 
@@ -40,4 +36,4 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcusl-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</p> -->
