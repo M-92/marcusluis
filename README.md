@@ -9,7 +9,7 @@
 ### Hello there! 👋
 
 - 📖 System Analysis and Development
-- 🤘 Passionate about: 👨‍💻 programming & 🏃‍♂️ running
+- 🙂 Passionate about: 👨‍💻 programming & 🏃‍♂️ running
 
 <br>
 
