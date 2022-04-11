@@ -6,8 +6,10 @@
  
 <br><br> -->
 
-📖 System Analysis and Development
-🤘 Passionate about: 👨‍💻 programming & 🏃‍♂️ running
+### Hello there! 👋
+
+- 📖 System Analysis and Development
+- 🤘 Passionate about: 👨‍💻 programming & 🏃‍♂️ running
 
 <br>
 
