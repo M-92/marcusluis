@@ -2,8 +2,10 @@
 
 <h4>I'm Marcus Silva</h4>
 
-- Currently studying: System Analysis and Development
-- Learning: JavaScript
+- System Analysis and Development student
+- Programming
+- UX Design
+- and I like to 🏃‍♂️
 
 <br>
 
