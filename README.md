@@ -2,10 +2,14 @@
 
 <h4>I'm Marcus Silva</h4>
 
-- System Analysis and Development student
-- Programming
-- UX Design
-- and I like to 🏃‍♂️
+→ System Analysis and Development student 📚
+
+What I like:
+
+→ Programming<br>
+→ UI Design<br>
+→ 🏃‍♂️<br>
+→ 🎮
 
 <br>
 
