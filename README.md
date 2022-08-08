@@ -1,10 +1,10 @@
-<h3>Hello there! 👋</h3>
+<h2>Hello there! 👋</h2>
 
 <h4>I'm Marcus Silva</h4>
 
 → System Analysis and Development student 📚
 
-What I like:
+<h4>What I like:</h4>
 
 → Programming<br>
 → UI Design<br>
