@@ -7,7 +7,6 @@
 <h4>What I like:</h4>
 
 → Programming<br>
-→ UI Design<br>
 → 🏃‍♂️<br>
 → 🎮
 
