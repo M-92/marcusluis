@@ -8,7 +8,7 @@
 
 ## Linguagens de programação:
 
-	Java, Go e JavaScript
+	Java e JavaScript
 
 ## Bibliotecas e frameworks de desenvolvimento web:
 
