@@ -14,9 +14,9 @@
 
 	Spring Boot, Thymeleaf, HTMX, React, e Vue.js
 
-## Serviços em nuvem:
+## Plataforma de Contêineres:
 
-	Amazon Web Services (AWS)
+	Docker
 
 ## Projetos:
 
