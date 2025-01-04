@@ -20,4 +20,6 @@
 
 ## Projetos:
 
+Protótipo de E-commerce Simples com React, Node.js e MySQL [Protótipo de E-commerce](https://youtu.be/8plx9lxPdQ0)
+
 Firefox Add-ons: Shorts to Standard [Shorts to Standard](https://github.com/m-rcussilva/shorts-to-standard)
