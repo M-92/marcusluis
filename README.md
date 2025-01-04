@@ -8,11 +8,11 @@
 
 ## Linguagens de programação:
 
-	Java e JavaScript
+	JavaScript, TypeScript e Java
 
 ## Bibliotecas e frameworks de desenvolvimento web:
 
-	Spring Boot, Thymeleaf, HTMX, React, e Vue.js
+	React, Express.js, Spring Boot, Spring Data e Hibernate
 
 ## Plataforma de Contêineres:
 
